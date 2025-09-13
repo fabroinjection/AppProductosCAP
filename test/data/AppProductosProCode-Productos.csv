@@ -1,0 +1,6 @@
+ID;nombre;precio;cantidadEnStock;proveedor_ID
+907a840f-cf52-4d3a-ae2f-b6c87e76fda7;Paracetamol;12.50;100;907a840f-cf52-4d3a-ae2f-b6c87e76fda7
+a20571f0-4fe3-4fcf-b30a-c31f67b9c887;Ibuprofeno;10.00;200;a20571f0-4fe3-4fcf-b30a-c31f67b9c887
+22549cb6-f9be-4653-9502-b6780ff63a05;Antibiótico;20.00;50;907a840f-cf52-4d3a-ae2f-b6c87e76fda7
+5787d470-5d28-40e3-9ed0-d5b67856d56c;Jarabe para la tos;15.00;75;22549cb6-f9be-4653-9502-b6780ff63a05
+130a6cc9-f28d-4563-b1dc-5bdd85e7987c;Vitaminas;30.00;120;a20571f0-4fe3-4fcf-b30a-c31f67b9c887
